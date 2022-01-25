@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/pets",
+  "description": "Pair programming pets website",
+  "minimum-stability": "stable",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Timothy Fair",
+      "email": "Fair.Timothy@Student.greenriver.edu"
+
+    },
+    {
+      "name": "Facsimile Nimely",
+      "email": "nimely.facsimile@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
